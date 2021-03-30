@@ -22,6 +22,8 @@ exports.config = {
     ],
     // Patterns to exclude.
     exclude: [
+        // './test/smoke/elementsExist.js',
+        // './test/smoke/labelsCorrect.js',
     ],
     //
     // ============

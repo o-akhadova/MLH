@@ -13,10 +13,18 @@
   "submitText": "Create!",
   "namePlaceholder": "Hero's name",
   "agePlaceholder": "Hero's age",
+  "storyTypePlaceholder": "Type of the story",
   "requiredMessage": "Required",
   "nameField70SymbolsError": "70 symbols max",
   "trimmedZeros": "55",
   "one": "1",
   "two": "2",
-  "twelve": "12"
+  "twelve": "12",
+  "firstStory": "Overcoming the Monster",
+  "secondStory": "Rebirth",
+  "thirdStory": "Quest",
+  "fourthStory": "Journey and Return",
+  "fifthStory": "Rags and Riches",
+  "sixthStory": "Tragedy",
+  "seventhStory": "Comedy"
 }

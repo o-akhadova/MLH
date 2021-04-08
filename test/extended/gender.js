@@ -1,5 +1,5 @@
 import sel from '../../data/selectors';
-import {name, gender, age, story} from '../../data/testData';
+import {name, age, story} from '../../data/testData';
 
 describe('Gender field suit', function () {
 
@@ -104,7 +104,7 @@ describe('Gender field suit', function () {
 
     describe('Negative cases', function () {
 
-        it.only('TC-065 No button is selected / Required', function () {
+        it('TC-065 No button is selected / Required', function () {
             $(sel.name).setValue(name.default);
             $(sel.age).setValue(age.default);
             $(sel.storyType).click();

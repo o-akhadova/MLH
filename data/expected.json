@@ -10,6 +10,7 @@
   "ageLabel": "3. How old is your hero?",
   "storyLabel": "4. What type of story would you like to read?",
   "imageLabel": "5. Upload an image (optional)",
+  "imagePlaceholder": "Click or drag and drop",
   "submitText": "Create!",
   "namePlaceholder": "Hero's name",
   "agePlaceholder": "Hero's age",
@@ -26,5 +27,7 @@
   "fourthStory": "Journey and Return",
   "fifthStory": "Rags and Riches",
   "sixthStory": "Tragedy",
-  "seventhStory": "Comedy"
+  "seventhStory": "Comedy",
+  "tryAgainBtn": "Try again!",
+  "fieldIsEmpty": ""
 }

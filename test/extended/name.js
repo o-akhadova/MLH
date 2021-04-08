@@ -1,5 +1,5 @@
 import sel from '../../data/selectors';
-import {name, gender, age, story} from '../../data/testData';
+import {name} from '../../data/testData';
 import exp from '../../data/expected.json';
 import {clearName} from '../../helpers/methods';
 

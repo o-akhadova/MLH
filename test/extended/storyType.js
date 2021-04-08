@@ -1,7 +1,6 @@
 import sel from '../../data/selectors';
-import {name, gender, age, story} from '../../data/testData';
+import {name, age, story} from '../../data/testData';
 import exp from '../../data/expected.json';
-import {inputValues4, clearInput} from '../../helpers/methods';
 
 describe('Story type suit', function () {
 

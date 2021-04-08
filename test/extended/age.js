@@ -1,6 +1,6 @@
 import sel from '../../data/selectors';
-import {name, gender, age, story} from '../../data/testData';
-import {inputValues4, clearInput} from '../../helpers/methods';
+import {age} from '../../data/testData';
+import {clearInput} from '../../helpers/methods';
 import exp from "../../data/expected.json";
 
 describe('Age field suit', function () {

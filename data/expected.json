@@ -29,5 +29,10 @@
   "sixthStory": "Tragedy",
   "seventhStory": "Comedy",
   "tryAgainBtn": "Try again!",
-  "fieldIsEmpty": ""
+  "fieldIsEmpty": "",
+  "year": "year old",
+  "years": "years old",
+  "his": "shakes his head",
+  "her": "shakes her head",
+  "its": "shakes its head"
 }

@@ -24,7 +24,8 @@ const elements = {
     "nameFieldErrorMessage": "[role=alert]",
     "ageFieldErrorMessage": "//div[contains(@class, \"ant-form-item-with-help\")][.//input[@id=\"age\"]]//div[@role=\"alert\"]",
     "ageSpinUp": ".ant-input-number-handler-up",
-    "ageSpinDown": ".ant-input-number-handler-down"
+    "ageSpinDown": ".ant-input-number-handler-down",
+    "story": ".card-text"
 }
 
 module.exports = elements

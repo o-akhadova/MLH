@@ -15,4 +15,10 @@ function clearInput(element) {
     }
 }
 
-module.exports = {inputValues4, clearInput};
+function getTheStory(name, gender, age, story) {
+    inputValues4(name, gender, age, story);
+    $(sel.submit).click();
+    return $$(sel.story)[0].getText();
+}
+
+module.exports = {inputValues4, clearInput, getTheStory};
